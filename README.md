@@ -6,7 +6,7 @@ Using the Yahoo Finance API to fetch the given list of tech stocks, store indivi
  
 * Insert
   * O(1) time complexity for HashMap put since no duplicate stock names will occur
-  * O(log(n) due to iteration of log(n) levels in the self balancing binary search tree
+  * O(log(n)) due to iteration of log(n) levels in the self balancing binary search tree
   
   
 * Retrieve

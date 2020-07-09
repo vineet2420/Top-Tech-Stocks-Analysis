@@ -12,6 +12,6 @@ Using the Yahoo Finance API to fetch the given list of tech stocks, store indivi
 * Retrieve
   * O(1) for HashMap since no collisions in hashing function will occur
   * O(K) for the TreeSet where K is an integer of the top K tech stocks to return.
-     *Ex. top(10) = Cable One [1773.01], Alphabet [1518.66], Shopify [1040.02] ...
+  *Ex. top(10) = Cable One [1773.01], Alphabet [1518.66], Shopify [1040.02] ...
  
 
